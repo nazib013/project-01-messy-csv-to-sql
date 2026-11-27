@@ -61,7 +61,7 @@ The raw file is not stored in this repo. Download it and save it as `data/raw/di
 ## How to run
 
 ```
-git clone https://github.com/YOUR-USERNAME/project-01-messy-csv-to-sql.git
+git clone https://github.com/nazib013/project-01-messy-csv-to-sql.git
 cd project-01-messy-csv-to-sql
 python -m venv venv
 venv\Scripts\activate
